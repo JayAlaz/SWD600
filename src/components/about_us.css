@@ -1,0 +1,19 @@
+.about-us{
+    
+    max-height: 20em;
+    margin-left: 30%;
+    margin-right: 25%;
+    border: 5px solid red;
+}
+h1{
+    text-align: center;
+    margin-left: 5%;
+}
+p{
+    font-size: 21px;
+}
+.text-body{
+    margin-left: 10%;
+    margin-right: 4%;
+    margin-bottom: 14%;
+}

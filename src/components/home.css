@@ -1,0 +1,10 @@
+.library-landing-page{
+    max-width: 30cm;
+    max-height: 15cm;
+    margin-top: 1mm;
+    margin-left: 15em;
+    border: 5px solid red;
+}
+h1{
+    color: red;
+}
